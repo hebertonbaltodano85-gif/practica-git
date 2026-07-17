@@ -21,4 +21,4 @@ https://github.com
 
 ## Imagen
 
-![Git](https://upload.wikimedia.org/wikipedia/commons/3/35/GitHub_Mark.png)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
