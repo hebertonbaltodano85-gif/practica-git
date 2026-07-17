@@ -1,12 +1,12 @@
 # Sistema de Gestión de Biblioteca
 
-Este proyecto es una aplicación ficticia para administrar libros y usuarios de una biblioteca.
+Este proyecto fue creado como práctica para aprender a utilizar Git y Markdown. Su objetivo es demostrar el uso de un repositorio, commits, ramas y documentación básica.
 
 ## Instalación
 
 1. Clonar el repositorio.
 2. Abrir la carpeta del proyecto.
-3. Ejecutar la aplicación.
+3. Ejecutar el proyecto.
 
 ## Tecnologías utilizadas
 
@@ -14,7 +14,7 @@ Este proyecto es una aplicación ficticia para administrar libros y usuarios de 
 - Markdown
 - Visual Studio Code
 
-**Proyecto académico** para practicar Git y Markdown.
+**Proyecto académico** para practicar el control de versiones.
 
 Más información en:
 https://github.com
